@@ -1,0 +1,74 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0%;
+  padding: 0%;
+}
+
+.container {
+  text-align: center;
+  margin-top: 25px;
+}
+
+table {
+  margin-top: 20px;
+}
+
+#screen {
+  height: 40;
+  font-size: 27px;
+  border: 3px solid black;
+  border-radius: 15px;
+  background-color: white;
+}
+
+button {
+  font-size: 40px;
+  background: orangered;
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
+  border-color: black;
+}
+
+.calculator {
+  border: 2px solid black;
+  display: inline-block;
+  background-color: rgb(17, 197, 95);
+  padding: 23px;
+  border-radius: 53px;
+}
+
+h1 {
+  font-size: 60px;
+  color: orangered;
+}
+
+#zero {
+  font-size: 40px;
+  background: orangered;
+  border: 2px black solid;
+  width: 160px;
+  height: 80px;
+  border-radius: 20px;
+  border-color: black;
+}
+
+#equalto {
+  font-size: 40px;
+  background: gold;
+  border: 2px black solid;
+  width: 80px;
+  height: 160px;
+  border-radius: 20px;
+  border-color: black;
+}
+
+.dot {
+  font-size: 40px;
+  background: orangered;
+  border: 2px black solid;
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
+  border-color: black;
+}
